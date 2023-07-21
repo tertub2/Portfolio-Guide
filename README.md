@@ -30,5 +30,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
 | ❤️ [Blood Donations Prediction](https://github.com/tertub2/Blood-Donations/blob/main/Predict%20Blood%20Donations/Blood%20Donation%20Notebook.ipynb) |   Machine Learning | In this project, you'll join me in the full model-building process, starting from inspecting the dataset to utilizing the tpot library to automate our Machine Learning pipeline. Together, we can make a positive contribution to blood donation management and help save lives. Let's embark on this journey to make a meaningful difference! | Pandas, Matplotlib, Sklear, Tpot |   
