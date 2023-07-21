@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
+- [Power BI](#power-bi)
 - [Machine Learning](#machine-learning)
 
 # Data Engineering
@@ -42,12 +42,12 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Tableau
+# Power BI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 🤓 [ENEM Challenge V.1](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | I tackled the comprehensive analysis of ENEM 2020 data, covering everything from Extract, Transform, Load (ETL) processes to impactful data visualizations using Power BI. Through this challenge, I gained valuable insights into student performance, demographic trends, and educational disparities, empowering decision-makers to enhance educational strategies and opportunities. | [Dashboard](https://drive.google.com/drive/u/0/folders/1tL3c-TI7jnJbXgjPr3o9DllFtkxckiYA) |
+| 🦠 [ENEM Challenge V.2](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | I created a new version of the ENEM Project, using Power BI for the visualization and KNIME for ETL, enabling more in-depth analyses of the ENEM 2020 registered students. I specifically focused on socio-economic analyses, gaining a comprehensive understanding of the data and providing valuable insights to drive impactful decisions in the educational domain. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTVhN2E0YjEtOGNkZS00MjZmLTgyNmUtZmJhNDA2YTUyNGZhIiwidCI6IjdlMzNhODk5LWZjZDEtNGU1MS04YTczLTQ2NTA0ODFjMjJjMiJ9) |
 
 
 # Machine Learning
