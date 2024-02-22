@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Python](#-python)
 - [Power BI](#-power-bi)
 - [Machine Learning](#-machine-learning) 
-- [Data Engineering](#-data_engineering)
+- [Data Engineering](#-data-engineering)
 
 # 🐍 Python
 
