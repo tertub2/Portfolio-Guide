@@ -3,12 +3,12 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Python](#python)
-- [Power BI](#power-bi)
-- [Machine Learning](#machine-learning)
+- [Python](#-python)
+- [Power BI](#-power-bi)
+- [Machine Learning](#-machine-learning) 
+- [Data Engineering](#-data_engineering)
 
-
-# Python
+# 🐍 Python
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Power BI
+# 📈 Power BI 
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
@@ -26,8 +26,16 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🤓🔂 [ENEM Challenge V.2](https://medium.com/@tertuliano.f.m/enem-microdata-project-a8946e14517d) | I created a new version of the ENEM Project, using Power BI for the visualization and KNIME for ETL, enabling more in-depth analyses of the ENEM 2020 registered students. I specifically focused on socio-economic analyses, gaining a comprehensive understanding of the data and providing valuable insights to drive impactful decisions in the educational domain. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTVhN2E0YjEtOGNkZS00MjZmLTgyNmUtZmJhNDA2YTUyNGZhIiwidCI6IjdlMzNhODk5LWZjZDEtNGU1MS04YTczLTQ2NTA0ODFjMjJjMiJ9) |
 
 
-# Machine Learning
+# 📊 Machine Learning
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | ❤️ [Blood Donations Prediction](https://github.com/tertub2/Blood-Donations/blob/main/Predict%20Blood%20Donations/Blood%20Donation%20Notebook.ipynb) |   Machine Learning | In this project, you'll join me in the full model-building process, starting from inspecting the dataset to utilizing the tpot library to automate our Machine Learning pipeline. Together, we can make a positive contribution to blood donation management and help save lives. Let's embark on this journey to make a meaningful difference! | Pandas, Matplotlib, Sklear, Tpot |   
+
+
+# 🔧 Data Engineering
+
+| Project Link | Area | Project Description | Features/Frameworks |    
+|---|---|---|---|
+| 🎌 [Japan Visa](https://github.com/tertub2/Japan_SparkandAzure_Project) |  Data Engineering | Project with end-to-end data processing and visualization of visa numbers in Japan using PySpark and Plotly. The tools used were spark clusters that were set up within a Docker container on Azure. | Pandas, Matplotlib, Pyspark, Numpy, Azure and Docker |   
+
