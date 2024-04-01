@@ -38,4 +38,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Features/Frameworks |    
 |---|---|---|---|
 | 🎌 [Japan Visa](https://github.com/tertub2/Japan_SparkandAzure_Project) |  Data Engineering | Project with end-to-end data processing and visualization of visa numbers in Japan using PySpark and Plotly. The tools used were spark clusters that were set up within a Docker container on Azure. | Pandas, Matplotlib, Pyspark, Numpy, Azure and Docker |   
-
+| 💸 [Currency API Extraction](https://github.com/tertub2/API_Extraction) |  Data Engineering | This project was designed to automate the extraction of cryptocurrency data from the CoinMarketCap API and securely persist it in an AWS RDS (Relational Database Service) instance. The process involves several steps to ensure the accuracy and integrity of the collected data. | Pandas, SQLAlchemy, Json and RDS |   
